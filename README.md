@@ -25,6 +25,11 @@ Percs:
 * Refresh page to restore original text
 * Simple & Easy to use
 
+### Example images
+
+<img src="images/before.png" alt="Logo" width="80" height="80">
+<img src="images/after.png" alt="Logo" width="80" height="80">
+
 ### Usage
 
 Launch Chrome >> Settings >> Extensions >> (Enable 'Developer mode') >> Load unpacked >> Select parent folder of extension
