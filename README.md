@@ -27,8 +27,11 @@ Percs:
 
 ### Example images
 
-<img src="images/before.png" alt="Logo" width="80" height="80">
-<img src="images/after.png" alt="Logo" width="80" height="80">
+<p align="center">
+<img src="images/before.png" alt="Logo" width="600">
+    
+<p align="center">
+<img src="images/after.png" alt="Logo" width="600">
 
 ### Usage
 
