@@ -17,13 +17,12 @@
 
 All credits for this method go to https://bionic-reading.com/ and @itorr
 
-Bionic Reading is a new method facilitating the rading process by guiding the eyes through text with artificial fixation points.
+Bionic Reading is a new method facilitating the reading process by guiding the eyes through text with artificial fixation points.
 As a result, the reader is only focusing on the highlighted initial letters and lets the brain center complete the word.
 
-Percs:
-* Does NOT break links
-* Refresh page to restore original text
-* Simple & Easy to use
+Keypoints:
+* Does not break hyperlinks
+* Refresh page to restore original
 
 ### Example images
 
@@ -35,4 +34,4 @@ Percs:
 
 ### Usage
 
-Launch Chrome >> Settings >> Extensions >> (Enable 'Developer mode') >> Load unpacked >> Select parent folder of extension
+Chrome >> Settings >> Extensions >> Enable 'Developer mode' >> Load unpacked >> Select extension folder
