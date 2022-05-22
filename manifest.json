@@ -1,7 +1,7 @@
 {
   "name": "Bionic Reading",
   "description": "Extension that enables you to read 30% more efficiently and easily!",
-  "version": "1.0",
+  "version": "0.1",
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
