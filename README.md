@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-All credits for this method go to https://bionic-reading.com/ and @itorr
+This project is based on repo from @itorr
 
 Bionic Reading is a new method facilitating the reading process by guiding the eyes through text with artificial fixation points.
 As a result, the reader is only focusing on the highlighted initial letters and lets the brain center complete the word.
